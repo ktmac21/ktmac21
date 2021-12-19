@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Kate.
-- 👀  I am looking for full time employment as a developer.`
+- 👀  I am looking for full time employment as a developer.
 - 🌱  I graduated from University of Penn's Full Stack coding bootcamp on November 13, 2021.
 - 💞️  I am seeking to collaborate on projects. 
 - 📫  How to reach me - kteagles21@gmail.com. 
