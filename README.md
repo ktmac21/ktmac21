@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Kate.
 - 👀  I am a Software Engineer at Nationwide Insurance
 - 🌱  I graduated from University of Penn's Full Stack coding bootcamp on November 13, 2021.
-- 💞️  HTML, CSS, JavaScript, TypeScript, Angular, React
+- 💞️  HTML, CSS, JavaScript, TypeScript, Angular, React, Next.js, Firebase, Express, MongoDB
 - 📫  How to reach me - kteagles21@gmail.com. 
 
 <!---
